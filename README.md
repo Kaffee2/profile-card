@@ -11,7 +11,7 @@ https://your-live-link-here
 ---
 
 ## 📁 GitHub Repository
-https://github.com/your-username/profile-card
+[https://github.com/your-username/profile-card](https://github.com/Kaffee2/profile-card.git)
 
 ---
 
